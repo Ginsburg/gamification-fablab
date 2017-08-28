@@ -6,6 +6,8 @@ Bienvenue chez OpenFab !
 
 OpenFab est un FabLab basé à Ixelles, qui met à disposition de sa communauté des machines et encourage de nouvelles manières de faire. 100% indépendant, OpenFab est un écosystème qui mutualise les capacités de chacun pour être catalyseur d’innovation et de créativité. Cette guilde 2.0 prône l’open source, depuis les machines jusqu’à la diffusion d’information.
 
+---
+
 ## Niveau 1 : Viens tester OpenFab !
 
 ### Ta première mission : Réalise ton projet !
@@ -44,6 +46,8 @@ L'utilisation de ces différentes machines ne s'improvisent pas, peut être dang
 ### Horaires
 
 Le plus simple pour être sûr que le local est bel et bien ouvert est de passer, de préférence, par le groupe Facebook : Openfab.lab brussels ou sinon par mail : contact@openfab.be. Sur le principe, nous sommes ouverts de 10h à 18h du lundi au vendredi. Cette amplitude horaire devrait s'étendre à mesure que la communauté s'aggrandit. Le FabLab est notre outil à tous, soyons acteurs de son évolution et adaptons le à nos besoins.  
+
+---
 
 ## Niveau 2 : Tu as aimé ? Tu en veux plus ?
 
@@ -97,6 +101,8 @@ Notre objectif, en tant que membres, joueurs d'OpenFab est double :
 - collectif : développer notre outil commun, le FabLab, les outils, la gestion commune, décrocher des appels à projet, ... Il y a 1000 façons de faire grandir le collectif.
 
 OpenFab, le jeu qui grandit avec toi !
+
+---
 
 Annexes :
 
