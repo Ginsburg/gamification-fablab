@@ -102,13 +102,18 @@ Tu trouveras plus tard, en ligne, le détail de ces 2 missions.
 
 ### Notre outil de collaboration : GitHub
 
+GitHub est une plateforme open source de collaboration, un réseau social. Historiquement dédié aux développeurs de logiciel, ses nombreuses fonctionnalités font qu'il se prête à de nombreux autres usages, à la gestion de n'importe quel projet. Il y a notamment un tutoriel qui explique comment faire de la poésie sur GitHub (https://www.youtube.com/watch?v=BCQHnlnPusY).
 
-
+Pour nous retrouver, c'est par ici :
 https://github.com/openfab-lab
 
 ### Ton assistant d'apprentissage : Maker Passport
 
+C'est un outil que nous développons. Il répond à plusieurs des problématiques rencontrés par un maker ou un fabmanager. Comment est-ce que j'atteste de ma capacité à utiliser telle ou telle machine à quelqu'un qui ne m'a jamais vu faire ? Comment est-ce que je peux être sûr que le nouveau membre saura se débrouiller aussi bien qu'il le dit ? Où est-ce que je peux rassembler toutes mes apprentissages ?
 
+Le Maker Passport répond à ces questions, il permet à n'importe quel maker de collecter des badges de compétence pour attester de ses aptitudes. Il va également plus loin et devient le compagnon de tous nos projets, il nous permet les documenter, prendre des notes, apporter un support méthodologie (gestion de projet, ...). C'est un outil complet et indispensable à tout bon maker.
+
+Pour le réaliser c'est par ici : 
 
 ### Les implications d'un tel statut
 
