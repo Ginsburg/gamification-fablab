@@ -6,7 +6,7 @@ Bienvenue chez OpenFab !
 
 OpenFab est un FabLab basé à Ixelles, qui met à disposition de sa communauté des machines et encourage de nouvelles manières de faire. 100% indépendant, OpenFab est un écosystème qui mutualise les capacités de chacun pour être catalyseur d’innovation et de créativité. Cette guilde 2.0 prône l’open source, depuis les machines jusqu’à la diffusion d’information.
 
-L'expérience OpenFab se vit comme un jeu dont tu es le héro. Libre à toi de composer ton parcours de membre, cela peut aller du simple projet en one-shoot au membre impliqué dans la gestion quotidienne du lieu, de la communauté qui gagne sa vie grâce aux projets du FabLab (commandes client, appels à projet, ...). 
+L'expérience OpenFab se vit comme un jeu dont tu es le héro. Libre à toi de composer ton parcours de membre, cela peut aller du simple projet en one-shoot au membre impliqué dans la gestion quotidienne du lieu, de la communauté et qui gagne sa vie grâce aux projets du FabLab (commandes client, appels à projet, ...). 
 
 ---
 
@@ -18,7 +18,7 @@ Ta première mission est simple, celle pour laquelle tu es venu : réalise ton p
 
 ### Ton premier objectif : Découvrir !
 
-Sois curieux, tu as devant toi un FabLab, des machines et une communauté.
+Tu as devant toi un FabLab, des machines, une communauté et surtout des milliers de possibilité (compétences complémentaires, mélange des technologies, ...). 
 
 ### Le statut de "User"
 
@@ -37,7 +37,7 @@ Attention, tu le découvriras plus tard mais des tarifs préférentiels sont mis
 
 - Imprimantes 3D
 - Découpeuse laser
-- Machine à coudre
+- Machine à coudre semi-industrielle
 - Atelier menuiserie (outillage divers à main, scie table, scie circulaire, ...)
 - CNC (peu accessible, à discuter)
 
@@ -82,7 +82,7 @@ Tu as réalisé ton premier projet ? Tu as sympathisé avec quelques membres et 
 C'est ici que la partie, le fun commence réellement !
 
 En devenant "SuperUser", tu débloques :
-- le Maker Passport, plus d'infos après.
+- le Maker Passport, plus d'infos juste en dessous.
 - l'accès à la monnaie communautaire, le Crrr qui te permettra de payer ton temps machine notamment.
 - 50 Crrr cadeau, sachant que 1 Crrr = 1 €.
 - des tarifs préférentiels
@@ -132,6 +132,8 @@ Notre objectif, en tant que membres, joueurs d'OpenFab est double :
 
 OpenFab, le jeu qui grandit avec toi !
 
+---
+
 ## Niveau 3 : Exerces !
 
 ---
@@ -144,10 +146,13 @@ Annexes :
 
 ---
 
-Métaphore :
+## Métaphore :
 
 OpenFab est notre bâteau à tous. Pour l'heure, c'est un simple radeau, il nous permet déjà de traverser de petites étendues d'eau. Il ne tient qu'à nous, à ceux qui y voient un intérêt, d'investir temps et effort pour l'améliorer, le rendre plus robuste pour qu'il nous emmène plus loin, plus grand pour qu'il puisse emporter plus de monde à son bord. 
 
-Une méthodologie en 3 niveaux : découvrir, apprendre les bases, participer.
+Méthodologie d'embarquement, en 3 niveaux : 
+- découvrir (intégrer ce qu'il est possible de faire, voir si ça matche avec la communauté, l'esprit du lieu, ...)
+- apprendre les bases (la quasi intégralité de ce que nous faisons passe par GitHub, nécessite un Maker Passport, il faut un temps d'apprentissage de ces bases indispensables)
+- participer (connaissance du FabLab, maitrise des outils : autonome)
 
 
