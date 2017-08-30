@@ -6,9 +6,11 @@ Bienvenue chez OpenFab !
 
 OpenFab est un FabLab basé à Ixelles, qui met à disposition de sa communauté des machines et encourage de nouvelles manières de faire. 100% indépendant, OpenFab est un écosystème qui mutualise les capacités de chacun pour être catalyseur d’innovation et de créativité. Cette guilde 2.0 prône l’open source, depuis les machines jusqu’à la diffusion d’information.
 
+L'expérience OpenFab se vit comme un jeu dont tu es le héro. Libre à toi de composer ton parcours de membre, cela peut aller du simple projet en one-shoot au membre impliqué dans la gestion quotidienne du lieu, de la communauté qui gagne sa vie grâce aux projets du FabLab (commandes client, appels à projet, ...). 
+
 ---
 
-## Niveau 1 : Viens tester OpenFab !
+## Niveau 1 : Découvre !
 
 ### Ta première mission : Réalise ton projet !
 
@@ -24,12 +26,12 @@ L'entrée dans la communauté se fait par la case "User". C'est le biais idéal 
 
 ### Tarifs
 
-L'accès au FabLab te coutera : 
-- adhésion à l'ASBL : 25€/an
-- 10€/jour
-- temps machine : variable en fonction des machines
+Pour venir travailler au FabLab, tu devrais t'acquitter de :
+- L'adhésion à l'ASBL : 25€/an (elle se fait sur notre site internet)
+- L'accès au FabLab : 10€/jour 
+- Le temps machine : variable en fonction des machines
 
-Attention, tu le découvriras plus tard mais des tarifs préférentiels sont mis en place pour les membres qui souhaite s'impliquer d'avantage dans le projet. Continue à lire ce manuel pour découvrir comment évoluer au sein d'OpenFab.
+Attention, tu le découvriras plus tard mais des tarifs préférentiels sont mis en place pour les membres qui souhaite s'impliquer d'avantage dans l'association. Continue à lire ce manuel pour découvrir comment évoluer au sein d'OpenFab.
 
 ### Parc machines
 
@@ -37,30 +39,58 @@ Attention, tu le découvriras plus tard mais des tarifs préférentiels sont mis
 - Découpeuse laser
 - Machine à coudre
 - Atelier menuiserie (outillage divers à main, scie table, scie circulaire, ...)
-- CNC 
+- CNC (peu accessible, à discuter)
+
+Le détail plus complet des caractéristiques des machines est sur notre site internet. Tu trouveras aussi, si on la mise en place quand tu lis ces lignes, une galerie avec certaines de nos réalisations, cela t'aidera à voir ce que nous pouvons faire et ne pas faire. Rien ne faut une visite du FabLab pour t'en rendre compte par toi-même, voir s'il y a adéquation avec ton projet.  
 
 ### Conditions d'utilisation des machines
 
-L'utilisation de ces différentes machines ne s'improvisent pas, peut être dangereux. La communauté est donc là pour t'accompagner, te former dans tes premières utilisations.
+L'utilisation de ces différentes machines ne s'improvisent pas, peut être dangereux. La communauté est donc là pour t'accompagner, te former dans tes premières utilisations. Nous te conseillons de passer par notre groupe Facebook : [Openfab.lab brussels](https://www.facebook.com/groups/openfablab.brussels/) pour te renseigner sur la disponibilité des machines avant ton passage.  
 
 ### Horaires
 
-Le plus simple pour être sûr que le local est bel et bien ouvert est de passer, de préférence, par le groupe Facebook : Openfab.lab brussels ou sinon par mail : contact@openfab.be. Sur le principe, nous sommes ouverts de 10h à 18h du lundi au vendredi. Cette amplitude horaire devrait s'étendre à mesure que la communauté s'aggrandit. Le FabLab est notre outil à tous, soyons acteurs de son évolution et adaptons le à nos besoins.  
+Le plus simple pour être sûr que le local est bel et bien ouvert est de passer, de préférence, par le groupe Facebook : [Openfab.lab brussels](https://www.facebook.com/groups/openfablab.brussels/) ou sinon par mail : contact@openfab.be. Sur le principe, nous sommes ouverts de 10h à 18h du lundi au vendredi. Cette amplitude horaire devrait s'étendre à mesure que la communauté s'aggrandit. Le FabLab est notre outil à tous, soyons acteurs de son évolution et adaptons le à nos besoins.  
+
+### Mission accomplie ? Tu as fini ton projet ?
+
+**Bravo !!!** Tu as terminé le niveau 1 et tu es maintenant un maker ! Trois choix se présentent à toi :
+- L'aventure peut s'arrêter là, ton projet est fini et d'autres aventures t'attendent ailleurs. Nous serons tristes de te voir partir mais la vie est ainsi faite !
+- Tu vas rester un membre occasionnel, la formule "User" te convient bien et c'est parfait comme ça.
+- Tu en veux plus ? Tu veux bosser avec certains membres de la communauté ? Tu veux t'impliquer d'avantage ? Passe au **Niveau 2 : Deviens "SuperUser"** !
+
+### Mission secondaire : Documente ton projet !
+
+L'**Open** Source est central chez **Open**Fab (eh ouais, qui l'eut cru ?!). L'Open Source consiste à permettre, sous conditions (un système de licence), un accès à la source de tout projet, expérience. Cela peut être de la simple consultation de ton travail, comme de l'édition, ...
+
+Poussée à l'extrême, cette démarche permet à l'humanité de capitaliser de n'importe quelle expérience faite par n'importe qui, tirer des enseignements, ne plus commettre les mêmes erreurs, gagner du temps, progresser, ... Concrètement, à l'échelle d'une communauté comme la nôtre, ça permet de connaitre à l'avance les bons réglages machine sur tel et tel matériau, apprendre une nouvelle technique de fabrication, avoir des pistes pour la correction d'un bug, ... C'est pour cela que nous travaillons sur une plateforme nommée GitHub (tu es peut-être déjà dessus, si tu lis ces lignes, sinon tu peux nous rejoindre sur : https://github.com/openfab-lab/openfab). Le moindre de nos projets y est entièrement accessible.
+
+Comment faire pour documenter ?  
+- Prends des photos
+- Prends des notes
+- Ne t'oblige pas à le faire sur GitHub pour le moment, le niveau suivant va t'accompagner dans l'apprentissage de ce bel outil.
+
+La documentation est avant tout une bonne habitude à prendre, rien que pour te souvenir de comment tu as procédé.
 
 ---
 
-## Niveau 2 : Tu as aimé ? Tu en veux plus ?
+## Niveau 2 : Apprends les bases !
 
 Tu as réalisé ton premier projet ? Tu as sympathisé avec quelques membres et vous aimeriez bosser ensemble ? Tu souhaites t'impliquer d'avantage dans OpenFab ? Deviens "SuperUser" !
 
 ### Le statut de "SuperUser"
 
 C'est ici que la partie, le fun commence réellement !
+
 En devenant "SuperUser", tu débloques :
 - le Maker Passport, plus d'infos après.
 - l'accès à la monnaie communautaire, le Crrr qui te permettra de payer ton temps machine notamment.
 - 50 Crrr cadeau, sachant que 1 Crrr = 1 €.
-- un tarif d'accès de 34€/mois contre 10€/jour précédemment (engagement minimum ou condition de sortie).
+- des tarifs préférentiels
+  - l'accès FabLab à 34€/mois contre 10€/jour précédemment (engagement minimum ou condition de sortie).
+  - un tarif machine réduit avec la possibilité d'acheter 50 Crrr pour 40€.
+- l'accès à certaines tâches, missions liées au FabLab avec des récompenses (Crrr, bières, ...)
+
+C'est aussi l'étape indispensable avant la suite : le statut de "MetaUser". Il te permettra encore plus de choses et notamment de participer aux projets financés et d'être rémunéré pour cela.
 
 ### Deux missions pour devenir "SuperUser"
 
@@ -102,6 +132,8 @@ Notre objectif, en tant que membres, joueurs d'OpenFab est double :
 
 OpenFab, le jeu qui grandit avec toi !
 
+## Niveau 3 : Exerces !
+
 ---
 
 Annexes :
@@ -109,5 +141,13 @@ Annexes :
 ## Règlement intérieur
 
 ## 
+
+---
+
+Métaphore :
+
+OpenFab est notre bâteau à tous. Pour l'heure, c'est un simple radeau, il nous permet déjà de traverser de petites étendues d'eau. Il ne tient qu'à nous, à ceux qui y voient un intérêt, d'investir temps et effort pour l'améliorer, le rendre plus robuste pour qu'il nous emmène plus loin, plus grand pour qu'il puisse emporter plus de monde à son bord. 
+
+Une méthodologie en 3 niveaux : découvrir, apprendre les bases, participer.
 
 
